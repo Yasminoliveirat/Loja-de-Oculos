@@ -1,1 +1,2 @@
-# Loja-de-culos
+# Loja de oculos 
+Projeto desenvolvido com React JS 
