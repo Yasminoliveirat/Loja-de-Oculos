@@ -2,7 +2,7 @@ export default function Sobre(){
     return(
         <section>
             <div>
-                <h3>QUEM SOMOS NÓS</h3>
+                <h2>QUEM SOMOS NÓS</h2>
                 <p>Fundada em 2001, em Diadema - São Paulo, a Óticas Vida iniciou suas atividades focada no atendimento ao público de <br></br>renda mais baixa, sempre com o objetivo de proporcionar ao cliente um bom atendimento, qualidade e preço baixo.</p>
                 <div>
                     <img src="./assets/imagens/loja.png"></img>

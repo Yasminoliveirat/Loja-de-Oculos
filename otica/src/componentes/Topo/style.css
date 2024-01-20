@@ -1,0 +1,22 @@
+.topo{
+    padding: 10px 15px 0 15px ;
+}
+
+#tp{
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+}
+
+#logo{
+    width: 150px;
+}
+
+.links-topo a{
+    font-size: 18px;
+    color:#000;
+    text-decoration: none;
+    margin: 0 5px 0 5px;
+}
